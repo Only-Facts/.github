@@ -3,4 +3,4 @@
 >
 > We are absolutely not Arch Linux fans. We wouldn't dare.
 >
-> We also do NOT hate every vscode user, and NOT worship Neovim.
+> We also do NOT hate every vscode user, we dont judge vibe coders and NOT worship Neovim.
